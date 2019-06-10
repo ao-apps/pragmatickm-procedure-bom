@@ -59,6 +59,7 @@ along with pragmatickm-procedure-bom.  If not, see <http://www.gnu.org/licenses 
 		</section:nav>
 		<section:section label="Managed Dependencies">
 			<ul>
+				<li><core:link book="/procedure/all" page="/" /></li>
 				<li><core:link book="/procedure/model" page="/" /></li>
 				<li><core:link book="/procedure/renderer/html" page="/" /></li>
 				<li><core:link book="/procedure/servlet" page="/" /></li>
