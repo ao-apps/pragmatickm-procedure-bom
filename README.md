@@ -29,7 +29,6 @@ Bill of Materials (BOM) for procedures nested within [SemanticCMS](https://githu
 ## Managed Dependencies
 * [PragmaticKM Procedure All](https://github.com/aoindustries/pragmatickm-procedure-all)
 * [PragmaticKM Procedure Model](https://github.com/aoindustries/pragmatickm-procedure-model)
-* [PragmaticKM Procedure Renderer HTML](https://github.com/aoindustries/pragmatickm-procedure-renderer-html)
 * [PragmaticKM Procedure Servlet](https://github.com/aoindustries/pragmatickm-procedure-servlet)
 * [PragmaticKM Procedure Style](https://github.com/aoindustries/pragmatickm-procedure-style)
 * [PragmaticKM Procedure Taglib](https://github.com/aoindustries/pragmatickm-procedure-taglib)
