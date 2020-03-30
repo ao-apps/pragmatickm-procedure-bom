@@ -38,7 +38,6 @@ along with pragmatickm-procedure-bom.  If not, see <http://www.gnu.org/licenses 
 	<inceptionYear>2019</inceptionYear>
 
 	<scm>
-		<!-- Can't inherit due to multi-module -->
 		<connection>scm:git:git://github.com/aoindustries/pragmatickm-procedure-bom.git</connection>
 		<developerConnection>scm:git:git@github.com:aoindustries/pragmatickm-procedure-bom.git</developerConnection>
 		<url>https://github.com/aoindustries/pragmatickm-procedure-bom</url>
