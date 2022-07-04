@@ -36,15 +36,15 @@ along with pragmatickm-procedure-bom.  If not, see <https://www.gnu.org/licenses
     <module.name>com.pragmatickm.procedure.bom.book</module.name>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>pragmatickm-procedure-bom</documented.artifactId>
-    <documented.name>PragmaticKM Procedure BOM²</documented.name>
+    <documented.name>PragmaticKM Procedure BOM</documented.name>
     <documented.description>Bill of Materials (BOM) for procedures nested within SemanticCMS pages and elements.</documented.description>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
   </properties>
 
-  <name>PragmaticKM Procedure BOM² Book</name>
+  <name>PragmaticKM Procedure BOM Book</name>
   <url>https://pragmatickm.com/procedure/bom/</url>
-  <description>Documentation for PragmaticKM Procedure BOM² in SemanticCMS format.</description>
+  <description>Documentation for PragmaticKM Procedure BOM in SemanticCMS format.</description>
   <inceptionYear>2019</inceptionYear>
 
   <licenses>

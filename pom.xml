@@ -39,7 +39,7 @@ along with pragmatickm-procedure-bom.  If not, see <https://www.gnu.org/licenses
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>PragmaticKM Procedure BOM²</name>
+  <name>PragmaticKM Procedure BOM</name>
   <url>https://pragmatickm.com/procedure/bom/</url>
   <description>Bill of Materials (BOM) for procedures nested within SemanticCMS pages and elements.</description>
   <inceptionYear>2019</inceptionYear>
