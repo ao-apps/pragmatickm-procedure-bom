@@ -19,7 +19,7 @@ Bill of Materials (BOM) for procedures nested within [SemanticCMS](https://githu
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/bom/)
 * [Changelog](https://pragmatickm.com/procedure/bom/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.pragmatickm&q=a%3Apragmatickm-procedure-bom)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-procedure-bom)
 * [GitHub](https://github.com/ao-apps/pragmatickm-procedure-bom)
 
 ## Managed Dependencies
