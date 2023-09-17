@@ -32,6 +32,11 @@ along with pragmatickm-procedure-bom.  If not, see <https://www.gnu.org/licenses
   <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-bom</artifactId><version>1.6.1-POST-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <properties>
+    <!-- Must be set to ${git.commit.time} for snapshots or ISO 8601 timestamp for releases. -->
+    <project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
+  </properties>
+
   <name>PragmaticKM Procedure BOM</name>
   <url>https://pragmatickm.com/procedure/bom/</url>
   <description>Bill of Materials (BOM) for procedures nested within SemanticCMS pages and elements.</description>
